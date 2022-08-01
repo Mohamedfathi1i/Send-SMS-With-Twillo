@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4RGpNwhkVbmapV5z4l/3nOKgnKeC/zdV58WXiyNaH3c=",
+  "Source": "SendSMSWithTwillo",
+  "BasePath": "_content/SendSMSWithTwillo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
